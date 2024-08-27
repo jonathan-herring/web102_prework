@@ -87,5 +87,5 @@ button {
 
 button:hover {
     cursor: pointer;
-    box-shadow: 0 0 10px lightgreen;
+    box-shadow: 0 0 10px lightgreen
 }
