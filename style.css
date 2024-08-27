@@ -14,9 +14,14 @@ body {
     background-color: lightblue;
     padding: 1%;
     align-items: center;
+    justify-content: space-between;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+}
+
+#game-navigation {
+    font-size: 20px;
 }
 
 .stats-container {
